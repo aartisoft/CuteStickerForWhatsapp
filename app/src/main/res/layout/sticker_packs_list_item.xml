@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.cardview.widget.CardView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/card_view"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_marginBottom="6dp"
+    android:layout_marginLeft="14dp"
+    android:layout_marginRight="14dp"
+    android:layout_marginTop="6dp"
+    android:padding="5dp"
+    app:cardElevation="1dp"
+    android:backgroundTint="@color/colorgraylight_card"
+    app:cardMaxElevation="1dp">
+
+    <androidx.constraintlayout.widget.ConstraintLayout xmlns:app="http://schemas.android.com/apk/res-auto"
+        xmlns:tools="http://schemas.android.com/tools"
+        android:id="@+id/sticker_store_row_container"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="11dp"
+        android:focusable="true"
+        android:foreground="?android:attr/selectableItemBackground"
+        android:orientation="vertical"
+        android:paddingBottom="4dp"
+        android:paddingLeft="10dp"
+        android:paddingTop="8dp">
+
+        <LinearLayout
+            android:id="@+id/sticker_pack_info"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="parent">
+
+            <ImageView
+                android:id="@+id/bigcateicon"
+                android:layout_width="80dp"
+                android:layout_height="80dp" />
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="vertical">
+
+                <TextView
+                    android:id="@+id/sticker_pack_title"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginLeft="10dp"
+                    android:layout_marginTop="5dp"
+                    android:textColor="@android:color/black"
+                    android:textSize="16sp"
+                    tools:text="Pusheen" />
+
+                <TextView
+                    android:id="@+id/sticker_pack_publisher"
+                    style="@style/sticker_packs_list_item_author_style"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginLeft="11dp"
+                    android:layout_marginTop="5dp"
+                    tools:text="petellison" />
+            </LinearLayout>
+
+            <TextView
+                android:id="@+id/sticker_pack_list_item_dot"
+                style="@style/sticker_packs_list_item_author_style"
+                android:layout_width="wrap_content"
+                android:layout_height="match_parent"
+                android:paddingEnd="@dimen/sticker_pack_list_item_row_dot_horizontal_padding"
+                android:paddingLeft="@dimen/sticker_pack_list_item_row_dot_horizontal_padding"
+                android:paddingRight="@dimen/sticker_pack_list_item_row_dot_horizontal_padding"
+                android:paddingStart="@dimen/sticker_pack_list_item_row_dot_horizontal_padding"
+                android:text="@string/dot"
+                android:visibility="gone" />
+
+            <TextView
+                android:id="@+id/sticker_pack_filesize"
+                style="@style/sticker_packs_list_item_author_style"
+                android:layout_width="wrap_content"
+                android:layout_height="match_parent"
+                android:visibility="gone"
+                tools:text="700kb" />
+
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@id/sticker_pack_info">
+
+            <LinearLayout
+                android:id="@+id/sticker_packs_list_item_image_list"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="5dp"
+                android:layout_weight="1"
+                android:orientation="horizontal" />
+
+            <ImageView
+                android:id="@+id/add_button_on_list"
+                android:layout_width="50dp"
+                android:layout_height="50dp"
+                android:layout_gravity="center_vertical"
+                android:layout_marginLeft="5dp"
+                android:layout_marginRight="5dp"
+                android:layout_marginTop="3dp"
+                android:background="?attr/selectableItemBackground"
+                android:contentDescription="@string/add_button_content_description"
+                android:scaleType="center"
+                android:src="@drawable/ic_add"
+                app:layout_constraintBottom_toBottomOf="parent"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintTop_toTopOf="parent" />
+        </LinearLayout>
+
+    </androidx.constraintlayout.widget.ConstraintLayout>
+</androidx.cardview.widget.CardView>

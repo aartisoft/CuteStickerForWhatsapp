@@ -1,0 +1,456 @@
+{
+  "android_play_store_link": "",
+  "sticker_packs": [
+    {
+      "identifier": "ChristmasGift",
+      "name": "Christmas Gift",
+      "publisher": "your company name",
+      "tray_image_file": "cate1.png",
+      "publisher_website": "",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+        {
+          "image_file": "gift_1.webp"
+        },
+        {
+          "image_file": "gift_2.webp"
+        },
+        {
+          "image_file": "gift_3.webp"
+        },
+        {
+          "image_file": "gift_4.webp"
+        },
+        {
+          "image_file": "gift_5.webp"
+        },
+        {
+          "image_file": "gift_6.webp"
+        },
+        {
+          "image_file": "gift_7.webp"
+        },
+        {
+          "image_file": "gift_8.webp"
+        },
+        {
+          "image_file": "gift_9.webp"
+        },
+        {
+          "image_file": "gift_10.webp"
+        }
+      ]
+    },
+    {
+      "identifier": "Santa",
+      "name": "Santa",
+      "publisher": "your company name",
+      "tray_image_file": "cat_icon.png",
+      "publisher_website": "",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+        {
+          "image_file": "santa_5.webp"
+        },
+        {
+          "image_file": "santa_6.webp"
+        },
+        {
+          "image_file": "santa_7.webp"
+        },
+        {
+          "image_file": "santa_8.webp"
+        },
+        {
+          "image_file": "santa_9.webp"
+        },
+        {
+          "image_file": "santa_10.webp"
+        },
+        {
+          "image_file": "santa_11.webp"
+        },
+        {
+          "image_file": "santa_12.webp"
+        },
+        {
+          "image_file": "santa_13.webp"
+        },
+        {
+          "image_file": "santa_14.webp"
+        }
+      ]
+    },
+    {
+      "identifier": "Love",
+      "name": "Love",
+      "publisher": "your company name",
+      "tray_image_file": "cat_icon.png",
+      "publisher_website": "",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+        {
+          "image_file": "love_sticker_1.webp"
+        },
+        {
+          "image_file": "love_sticker_2.webp"
+        },
+        {
+          "image_file": "love_sticker_3.webp"
+        },
+        {
+          "image_file": "love_sticker_4.webp"
+        },
+        {
+          "image_file": "love_sticker_5.webp"
+        },
+        {
+          "image_file": "love_sticker_6.webp"
+        },
+        {
+          "image_file": "love_sticker_7.webp"
+        },
+        {
+          "image_file": "love_sticker_8.webp"
+        },
+        {
+          "image_file": "love_sticker_9.webp"
+        },
+        {
+          "image_file": "love_sticker_10.webp"
+        }
+      ]
+    },
+    {
+      "identifier": "Cate",
+      "name": "Cate",
+      "publisher": "your company name",
+      "tray_image_file": "cat_icon.png",
+      "publisher_website": "",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+        {
+          "image_file": "sticker_86.webp"
+        },
+        {
+          "image_file": "sticker_85.webp"
+        },
+        {
+          "image_file": "sticker_84.webp"
+        },
+        {
+          "image_file": "sticker_83.webp"
+        },
+        {
+          "image_file": "sticker_82.webp"
+        },
+        {
+          "image_file": "sticker_81.webp"
+        },
+        {
+          "image_file": "sticker_133.webp"
+        },
+        {
+          "image_file": "sticker_134.webp"
+        },
+        {
+          "image_file": "sticker_135.webp"
+        },
+        {
+          "image_file": "sticker_136.webp"
+        }
+      ]
+    },
+    {
+      "identifier": "EyeContacts",
+      "name": "Eye Contacts",
+      "publisher": "your company name",
+      "tray_image_file": "cat_icon.png",
+      "publisher_website": "",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+        {
+          "image_file": "sticker_406.webp"
+        },
+        {
+          "image_file": "sticker_407.webp"
+        },
+        {
+          "image_file": "sticker_408.webp"
+        },
+        {
+          "image_file": "sticker_409.webp"
+        },
+        {
+          "image_file": "sticker_410.webp"
+        },
+        {
+          "image_file": "sticker_411.webp"
+        },
+        {
+          "image_file": "sticker_412.webp"
+        },
+        {
+          "image_file": "sticker_413.webp"
+        },
+        {
+          "image_file": "sticker_414.webp"
+        },
+        {
+          "image_file": "sticker_415.webp"
+        }
+      ]
+    },
+    {
+      "identifier": "LovelyCouples",
+      "name": "Lovely Couples",
+      "publisher": "your company name",
+      "tray_image_file": "cat_icon.png",
+      "publisher_website": "",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+        {
+          "image_file": "sticker_545.webp"
+        },
+        {
+          "image_file": "sticker_546.webp"
+        },
+        {
+          "image_file": "sticker_547.webp"
+        },
+        {
+          "image_file": "sticker_548.webp"
+        },
+        {
+          "image_file": "sticker_549.webp"
+        },
+        {
+          "image_file": "sticker_550.webp"
+        },
+        {
+          "image_file": "sticker_551.webp"
+        },
+        {
+          "image_file": "sticker_552.webp"
+        },
+        {
+          "image_file": "sticker_553.webp"
+        },
+        {
+          "image_file": "sticker_554.webp"
+        }
+      ]
+    },
+    {
+      "identifier": "Monkey",
+      "name": "Monkey",
+      "publisher": "your company name",
+      "tray_image_file": "cat_icon.png",
+      "publisher_website": "",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+        {
+          "image_file": "sticker_45.webp"
+        },
+        {
+          "image_file": "sticker_63.webp"
+        },
+        {
+          "image_file": "sticker_66.webp"
+        },
+        {
+          "image_file": "sticker_112.webp"
+        },
+        {
+          "image_file": "sticker_117.webp"
+        },
+        {
+          "image_file": "sticker_118.webp"
+        },
+        {
+          "image_file": "sticker_119.webp"
+        },
+        {
+          "image_file": "sticker_120.webp"
+        },
+        {
+          "image_file": "sticker_121.webp"
+        },
+        {
+          "image_file": "sticker_122.webp"
+        }
+      ]
+    },
+    {
+      "identifier": "SimplyTexts",
+      "name": "Simply Texts",
+      "publisher": "your company name",
+      "tray_image_file": "cat_icon.png",
+      "publisher_website": "",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+        {
+          "image_file": "sticker_285.webp"
+        },
+        {
+          "image_file": "sticker_286.webp"
+        },
+        {
+          "image_file": "sticker_287.webp"
+        },
+        {
+          "image_file": "sticker_288.webp"
+        },
+        {
+          "image_file": "sticker_289.webp"
+        },
+        {
+          "image_file": "sticker_290.webp"
+        },
+        {
+          "image_file": "sticker_291.webp"
+        },
+        {
+          "image_file": "sticker_292.webp"
+        },
+        {
+          "image_file": "sticker_293.webp"
+        },
+        {
+          "image_file": "sticker_294.webp"
+        }
+      ]
+    },
+    {
+      "identifier": "Sunshine",
+      "name": "Sunshine",
+      "publisher": "your company name",
+      "tray_image_file": "cat_icon.png",
+      "publisher_website": "",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+        {
+          "image_file": "sticker_493.webp"
+        },
+        {
+          "image_file": "sticker_494.webp"
+        },
+        {
+          "image_file": "sticker_495.webp"
+        },
+        {
+          "image_file": "sticker_496.webp"
+        },
+        {
+          "image_file": "sticker_497.webp"
+        },
+        {
+          "image_file": "sticker_498.webp"
+        },
+        {
+          "image_file": "sticker_499.webp"
+        },
+        {
+          "image_file": "sticker_500.webp"
+        },
+        {
+          "image_file": "sticker_501.webp"
+        },
+        {
+          "image_file": "sticker_502.webp"
+        }
+      ]
+    },
+    {
+      "identifier": "Skeleton",
+      "name": "Skeleton",
+      "publisher": "your company name",
+      "tray_image_file": "cat_icon.png",
+      "publisher_website": "",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+        {
+          "image_file": "sticker_397.webp"
+        },
+        {
+          "image_file": "sticker_398.webp"
+        },
+        {
+          "image_file": "sticker_399.webp"
+        },
+        {
+          "image_file": "sticker_400.webp"
+        },
+        {
+          "image_file": "sticker_401.webp"
+        },
+        {
+          "image_file": "sticker_402.webp"
+        },
+        {
+          "image_file": "sticker_403.webp"
+        },
+        {
+          "image_file": "sticker_404.webp"
+        },
+        {
+          "image_file": "sticker_405.webp"
+        },
+        {
+          "image_file": "sticker_396.webp"
+        }
+      ]
+    },
+    {
+      "identifier": "WildLife1",
+      "name": "Wild Life",
+      "publisher": "your company name",
+      "tray_image_file": "cat_icon.png",
+      "publisher_website": "",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+        {
+          "image_file": "sticker_1.webp"
+        },
+        {
+          "image_file": "sticker_2.webp"
+        },
+        {
+          "image_file": "sticker_3.webp"
+        },
+        {
+          "image_file": "sticker_4.webp"
+        },
+        {
+          "image_file": "sticker_5.webp"
+        },
+        {
+          "image_file": "sticker_6.webp"
+        },
+        {
+          "image_file": "sticker_7.webp"
+        },
+        {
+          "image_file": "sticker_8.webp"
+        },
+        {
+          "image_file": "sticker_9.webp"
+        },
+        {
+          "image_file": "sticker_10.webp"
+        }
+      ]
+    }
+  ]
+}

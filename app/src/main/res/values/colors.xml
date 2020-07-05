@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#353535</color>
+    <color name="colorPrimaryDark">#222222</color>
+    <color name="colorAccent">#ffffff</color>
+    <color name="inactiveAddButtonColor">#B3B3B3</color>
+    <color name="infoPageBackgroundColor">#EBEBEB</color>
+    <color name="actionBarArrowColor">@color/colorAccent</color>
+    <color name="white">#ffffff</color>
+    <color name="colorBlack">#353434</color>
+    <color name="colorBlackLight">#fadedcdc</color>
+    <color name="colorgraylight_card">#64e6e5e5</color>
+</resources>

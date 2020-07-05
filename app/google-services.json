@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "86833527596",
+    "firebase_url": "https://cutesticker-5a264.firebaseio.com",
+    "project_id": "cutesticker-5a264",
+    "storage_bucket": "cutesticker-5a264.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:86833527596:android:bd16c08bd77a00efb40a89",
+        "android_client_info": {
+          "package_name": "com.tugasakhirmobile.cutesticker"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "86833527596-k4upgg5n9k5c84ta1ee01dv8f41jtsm5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDl5PD-XVwlKgRW-8rYSbciaQgI9lr57C4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "86833527596-k4upgg5n9k5c84ta1ee01dv8f41jtsm5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
